@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "zFPKM"]
-	path = zFPKM
-	url = https://github.com/ronammar/zfpkm
-	shallow = true
-	registered = true
 [submodule "randomcoloR"]
 	path = randomcoloR
 	url = https://github.com/ronammar/randomcolor
+	shallow = true
+	registered = true
+[submodule "zFPKM"]
+	path = zFPKM
+	url = https://github.com/ronammar/zfpkm
 	shallow = true
 	registered = true
